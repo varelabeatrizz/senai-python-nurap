@@ -1,0 +1,5 @@
+print('Hello, word!')
+print('My name is Erik')
+print('Im twenty-one years old')
+print('I am business student')
+print('I do not like nurap')
